@@ -1,5 +1,5 @@
 ![nexus_software_pvt_ltd_cover](https://github.com/Shreyaprasad21/Project-3-AI-ML-Series-Multiple-Disease-Detection-system/assets/142075353/1e542e0d-2db0-41cb-99b7-d8f61c9da7cb)
-# Project 3 - Parkinson's Disease Prediction
+# Project 3 - Parkinson's Disease Predicti
 
 ## Project Overview
 
