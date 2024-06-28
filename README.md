@@ -47,7 +47,7 @@ git clone https://github.com/himankgupta1/Project-3-Parkinson-Disease-Detection.
 ```
 2. Navigate to the project directory:
 ```
-cd Project-3-Parkinson-Disease-Detection.git
+cd Project-3-Parkinson-Disease-Detection
 ```
 3. Install the required libraries
 
