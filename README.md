@@ -43,11 +43,11 @@ The Jupyter Notebook `Parkinson_s Disease Prediction.ipynb` includes the followi
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/himankgupta1/stock-market-prediction.git
+git clone https://github.com/himankgupta1/Project-3-Parkison-Disease-Prediction.git
 ```
 2. Navigate to the project directory:
 ```
-cd stock-market-prediction
+cd Project-3-Parkison-Disease-Prediction.git
 ```
 3. Install the required libraries
 
