@@ -40,6 +40,17 @@ The Jupyter Notebook `Parkinson_s Disease Prediction.ipynb` includes the followi
 4. **Model Building**: Building machine learning models to predict Parkinson's disease.
 5. **Model Evaluation**: Evaluating the performance of the models using appropriate metrics.
 
+## Installation
+1. Clone the repository:
+```
+git clone https://github.com/himankgupta1/stock-market-prediction.git
+```
+2. Navigate to the project directory:
+```
+cd stock-market-prediction
+```
+3. Install the required libraries
+
 ## Key Considerations
 
 - **Feature Selection**: Identifying the most relevant features that contribute to the prediction of Parkinson's disease.
